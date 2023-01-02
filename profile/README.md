@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is an official GitHub organization related to browser extension called Camellia. With Camellia installed in your browser, when you create a new tab, Camellia will be opened instead of default browser’s new tab page. For more details about the project, check out [camellia-app/camellia](https://github.com/camellia-app/camellia) repository.
+This is an official GitHub organization related to browser extension called Camellia. With Camellia installed in your browser, when you create a new tab, Camellia will be opened instead of default browser’s new tab page. Instead of traditional non-functional new tab pages, Camellia shows you all your native browser bookmarks in convinient way. If you wish to know more about the project, check out [camellia-app/camellia](https://github.com/camellia-app/camellia) repository.
 
 Camellia is free and fully open source project. This GitHub organization used for full development cycle of the project:
 

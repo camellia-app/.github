@@ -5,8 +5,7 @@ This is an official GitHub organization related to browser extension called Came
 Camellia is free and fully open source project. This GitHub organization used for full development cycle of the project:
 
 * It holds source code repositories for all components used to run the project: browser extension itself and Cloudflare Workers required for some functionality.
-* We use GitHub Issues as a task tracker.
-* Next, visit [GitHub Discussions](https://github.com/orgs/camellia-app/discussions) to chat about anything related to the project.
-* Also, check out [GitHub Projects](https://github.com/orgs/camellia-app/projects) in the organization.
+* We use GitHub Issues to keep track on tasks and [GitHub Projects](https://github.com/orgs/camellia-app/projects) to organize them.
+* [GitHub Discussions](https://github.com/orgs/camellia-app/discussions) is like a community forum where you can chat about anything related to the project.
 
 Camellia was designed and developed by [Petr Flaks](https://github.com/flaksp) with help of awesome contributors ❤️
